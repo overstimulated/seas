@@ -5,7 +5,7 @@
 
 //echo 'Hello world from Cloud9!';
 header('HTTP/1.1 307 Temporary Redirect');
-header('Location: sampleApp/');
+header('Location: FileManager/');
 ?>
 <html>
   <head>
